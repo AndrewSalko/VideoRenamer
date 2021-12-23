@@ -1,2 +1,2 @@
 # VideoRenamer
-Rename video files and subtitles
+Rename video files and subtitles. C#, WinForms
